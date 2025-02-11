@@ -85,3 +85,4 @@ bun dev
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 Special thanks to CodeBucks(https://devdreaming.com) for the startup code and the ideas![CodeBucks(https://youtube.com/@CodeBucks)]
+# Portfolio2025
